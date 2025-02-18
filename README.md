@@ -20,7 +20,7 @@ The **Aspect Ratio Calculator** is a simple tool that helps you quickly determin
 
 ### 1️⃣ Clone the Repository  
 ```sh
-git clone https://github.com/your-username/aspect-ratio-calculator.git
+git clone https://github.com/KIHs0/aspect-ratio-calculator.git
 
 
 
